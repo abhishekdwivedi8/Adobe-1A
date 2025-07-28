@@ -1,0 +1,67 @@
+{
+  "title": "Indian Traditions, Culture &",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "1. Swami (The King)",
+      "page": 28,
+      "confidence": 0.98,
+      "semantic_score": 0.88,
+      "font_size": 36.0,
+      "y_position": 3.902618408203125,
+      "adaptive_score": 0.8882667764512145
+    },
+    {
+      "level": "H2",
+      "text": "4. Durga (Fortification)",
+      "page": 34,
+      "confidence": 0.98,
+      "semantic_score": 0.88,
+      "font_size": 36.0,
+      "y_position": 1.6240119934082031,
+      "adaptive_score": 0.8882667764512145
+    },
+    {
+      "level": "H2",
+      "text": "5. Kosha (The Treasury)",
+      "page": 36,
+      "confidence": 0.98,
+      "semantic_score": 0.88,
+      "font_size": 36.0,
+      "y_position": 1.6240119934082031,
+      "adaptive_score": 0.8882667764512145
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "form",
+    "structure_complexity": "simple",
+    "total_pages": 124,
+    "heading_distribution": {
+      "H1": 0,
+      "H2": 3,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.98,
+    "average_semantic_score": 0.88,
+    "accuracy_estimate": 98.0,
+    "total_headings": 3
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "1. Swami (The King)",
+      "4. Durga (Fortification)",
+      "5. Kosha (The Treasury)"
+    ],
+    "hierarchy_tree": [],
+    "content_categories": {}
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.5281558036804199,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

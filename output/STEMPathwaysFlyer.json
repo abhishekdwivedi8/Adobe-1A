@@ -1,0 +1,149 @@
+{
+  "title": "Parsippany -Troy Hills STEM Pathways",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Parsippany -Troy Hills STEM Pathways",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.67,
+      "font_size": 28.0,
+      "y_position": 37.369590759277344,
+      "adaptive_score": 0.8775956284153006
+    },
+    {
+      "level": "H1",
+      "text": "REGULAR PATHWAY",
+      "page": 1,
+      "confidence": 0.905,
+      "semantic_score": 0.5,
+      "font_size": 15.3,
+      "y_position": 467.75457763671875,
+      "adaptive_score": 0.8775956284153006
+    },
+    {
+      "level": "H2",
+      "text": "DISTINCTION PATHWAY",
+      "page": 1,
+      "confidence": 0.905,
+      "semantic_score": 0.5,
+      "font_size": 15.3,
+      "y_position": 467.75457763671875,
+      "adaptive_score": 0.8775956284153006
+    },
+    {
+      "level": "H1",
+      "text": "Elective Course Offerings",
+      "page": 2,
+      "confidence": 0.8975,
+      "semantic_score": 0.67,
+      "font_size": 22.0,
+      "y_position": 42.51622009277344,
+      "adaptive_score": 0.8775956284153006
+    },
+    {
+      "level": "H1",
+      "text": "Family Consumer",
+      "page": 2,
+      "confidence": 0.8150000000000001,
+      "semantic_score": 0.62,
+      "font_size": 12.0,
+      "y_position": 118.3675537109375,
+      "adaptive_score": 0.8775956284153006
+    },
+    {
+      "level": "H2",
+      "text": "Science and Other",
+      "page": 2,
+      "confidence": 0.8275,
+      "semantic_score": 0.67,
+      "font_size": 12.0,
+      "y_position": 132.62322998046875,
+      "adaptive_score": 0.8775956284153006
+    },
+    {
+      "level": "H1",
+      "text": "What Colleges Say!",
+      "page": 2,
+      "confidence": 0.98,
+      "semantic_score": 0.67,
+      "font_size": 18.0,
+      "y_position": 480.8514709472656,
+      "adaptive_score": 0.8775956284153006
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "general",
+    "structure_complexity": "moderate",
+    "total_pages": 2,
+    "heading_distribution": {
+      "H1": 5,
+      "H2": 2,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.901,
+    "average_semantic_score": 0.614,
+    "accuracy_estimate": 90.1,
+    "total_headings": 7
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "Parsippany -Troy Hills STEM Pathways",
+      "REGULAR PATHWAY",
+      "DISTINCTION PATHWAY",
+      "Elective Course Offerings",
+      "Family Consumer",
+      "Science and Other",
+      "What Colleges Say!"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "Parsippany -Troy Hills STEM Pathways",
+        "page": 1,
+        "children": []
+      },
+      {
+        "text": "REGULAR PATHWAY",
+        "page": 1,
+        "children": [
+          {
+            "text": "DISTINCTION PATHWAY",
+            "page": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Elective Course Offerings",
+        "page": 2,
+        "children": []
+      },
+      {
+        "text": "Family Consumer",
+        "page": 2,
+        "children": [
+          {
+            "text": "Science and Other",
+            "page": 2,
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "What Colleges Say!",
+        "page": 2,
+        "children": []
+      }
+    ],
+    "content_categories": {}
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.244093656539917,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

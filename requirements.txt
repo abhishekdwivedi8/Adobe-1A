@@ -1,0 +1,3 @@
+# CERBERUS ULTIMATE - Compliant Dependencies (Under 200MB)
+PyMuPDF==1.23.8
+numpy==1.24.4

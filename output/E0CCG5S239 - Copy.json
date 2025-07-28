@@ -1,0 +1,51 @@
+{
+  "title": "Application form for grant of LTC advance",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Application form for grant of LTC advance",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.8500000000000001,
+      "font_size": 11.7,
+      "y_position": 106.07836151123047,
+      "adaptive_score": 0.8675675675675676
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "form",
+    "structure_complexity": "simple",
+    "total_pages": 1,
+    "heading_distribution": {
+      "H1": 1,
+      "H2": 0,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.98,
+    "average_semantic_score": 0.85,
+    "accuracy_estimate": 98.0,
+    "total_headings": 1
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "Application form for grant of LTC advance"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "Application form for grant of LTC advance",
+        "page": 1,
+        "children": []
+      }
+    ],
+    "content_categories": {}
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.02287459373474121,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

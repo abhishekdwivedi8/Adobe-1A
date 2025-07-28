@@ -1,0 +1,82 @@
+{
+  "title": "Transforming Systems With Solutions",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Team Details:",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.8,
+      "font_size": 28.8,
+      "y_position": 623.2698974609375,
+      "adaptive_score": 0.7251655629139072
+    },
+    {
+      "level": "H1",
+      "text": "Idea & Solution",
+      "page": 3,
+      "confidence": 0.8975,
+      "semantic_score": 0.67,
+      "font_size": 76.5,
+      "y_position": 123.45521545410156,
+      "adaptive_score": 0.8251655629139073
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 10,
+      "confidence": 0.9349999999999999,
+      "semantic_score": 0.82,
+      "font_size": 43.7,
+      "y_position": 103.44388580322266,
+      "adaptive_score": 0.8251655629139073
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "form",
+    "structure_complexity": "simple",
+    "total_pages": 10,
+    "heading_distribution": {
+      "H1": 2,
+      "H2": 1,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.938,
+    "average_semantic_score": 0.763,
+    "accuracy_estimate": 93.8,
+    "total_headings": 3
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "Team Details:",
+      "Idea & Solution",
+      "Conclusion"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "Idea & Solution",
+        "page": 3,
+        "children": []
+      },
+      {
+        "text": "Conclusion",
+        "page": 10,
+        "children": []
+      }
+    ],
+    "content_categories": {
+      "conclusive": [
+        "Conclusion"
+      ]
+    }
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 2.420895576477051,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

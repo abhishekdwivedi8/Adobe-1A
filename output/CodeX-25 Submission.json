@@ -1,0 +1,100 @@
+{
+  "title": "Name of Team",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Name of Team",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.67,
+      "font_size": 35.0,
+      "y_position": 136.72320556640625,
+      "adaptive_score": 0.8800000000000001
+    },
+    {
+      "level": "H2",
+      "text": "Name of Members",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.67,
+      "font_size": 35.0,
+      "y_position": 343.71319580078125,
+      "adaptive_score": 0.8800000000000001
+    },
+    {
+      "level": "H1",
+      "text": "Problem Statement",
+      "page": 2,
+      "confidence": 0.98,
+      "semantic_score": 0.62,
+      "font_size": 35.0,
+      "y_position": 91.4088134765625,
+      "adaptive_score": 0.8800000000000001
+    },
+    {
+      "level": "H1",
+      "text": "Tech Stack We Are Using...",
+      "page": 4,
+      "confidence": 0.98,
+      "semantic_score": 0.67,
+      "font_size": 35.0,
+      "y_position": 91.4088134765625,
+      "adaptive_score": 0.8800000000000001
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "general",
+    "structure_complexity": "simple",
+    "total_pages": 4,
+    "heading_distribution": {
+      "H1": 3,
+      "H2": 1,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.98,
+    "average_semantic_score": 0.657,
+    "accuracy_estimate": 98.0,
+    "total_headings": 4
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "Name of Team",
+      "Name of Members",
+      "Problem Statement",
+      "Tech Stack We Are Using..."
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "Name of Team",
+        "page": 1,
+        "children": [
+          {
+            "text": "Name of Members",
+            "page": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Problem Statement",
+        "page": 2,
+        "children": []
+      },
+      {
+        "text": "Tech Stack We Are Using...",
+        "page": 4,
+        "children": []
+      }
+    ],
+    "content_categories": {}
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.11681270599365234,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

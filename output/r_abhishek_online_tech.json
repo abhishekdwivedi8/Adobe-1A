@@ -1,0 +1,136 @@
+{
+  "title": "Abhishek Dwivedi",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Abhishek Dwivedi",
+      "page": 1,
+      "confidence": 0.965,
+      "semantic_score": 0.62,
+      "font_size": 14.0,
+      "y_position": 14.994728088378906,
+      "adaptive_score": 0.8827586206896552
+    },
+    {
+      "level": "H2",
+      "text": "Professional Summary",
+      "page": 1,
+      "confidence": 0.8150000000000001,
+      "semantic_score": 0.62,
+      "font_size": 11.0,
+      "y_position": 65.46298217773438,
+      "adaptive_score": 0.8827586206896552
+    },
+    {
+      "level": "H2",
+      "text": "ShaadiSetGo – AI-Powered Indian Wedding Services Platform​",
+      "page": 1,
+      "confidence": 0.8275,
+      "semantic_score": 0.67,
+      "font_size": 10.0,
+      "y_position": 173.38548278808594,
+      "adaptive_score": 0.6827586206896552
+    },
+    {
+      "level": "H2",
+      "text": "Tech Stack:",
+      "page": 1,
+      "confidence": 0.8150000000000001,
+      "semantic_score": 0.62,
+      "font_size": 10.0,
+      "y_position": 186.71142578125,
+      "adaptive_score": 0.6827586206896552
+    },
+    {
+      "level": "H1",
+      "text": "Technical Skills",
+      "page": 1,
+      "confidence": 0.7350000000000001,
+      "semantic_score": 0.62,
+      "font_size": 11.0,
+      "y_position": 554.4638671875,
+      "adaptive_score": 0.8827586206896552
+    },
+    {
+      "level": "H1",
+      "text": "Certifications & Achievements",
+      "page": 1,
+      "confidence": 0.7475,
+      "semantic_score": 0.67,
+      "font_size": 11.0,
+      "y_position": 680.7097778320312,
+      "adaptive_score": 0.8827586206896552
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "general",
+    "structure_complexity": "moderate",
+    "total_pages": 1,
+    "heading_distribution": {
+      "H1": 3,
+      "H2": 3,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.818,
+    "average_semantic_score": 0.637,
+    "accuracy_estimate": 81.8,
+    "total_headings": 6
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "Abhishek Dwivedi",
+      "Professional Summary",
+      "ShaadiSetGo – AI-Powered Indian Wedding Services Platform​",
+      "Tech Stack:",
+      "Technical Skills",
+      "Certifications & Achievements"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "Abhishek Dwivedi",
+        "page": 1,
+        "children": [
+          {
+            "text": "Professional Summary",
+            "page": 1,
+            "children": []
+          },
+          {
+            "text": "ShaadiSetGo – AI-Powered Indian Wedding Services Platform​",
+            "page": 1,
+            "children": []
+          },
+          {
+            "text": "Tech Stack:",
+            "page": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Technical Skills",
+        "page": 1,
+        "children": []
+      },
+      {
+        "text": "Certifications & Achievements",
+        "page": 1,
+        "children": []
+      }
+    ],
+    "content_categories": {
+      "introductory": [
+        "Professional Summary"
+      ]
+    }
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.03890585899353027,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

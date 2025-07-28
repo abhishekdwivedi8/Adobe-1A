@@ -1,0 +1,84 @@
+{
+  "title": "RFP: Request f",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "RFP: Request f",
+      "page": 1,
+      "confidence": 0.8975,
+      "semantic_score": 0.67,
+      "font_size": 32.0,
+      "y_position": 156.5159454345703,
+      "adaptive_score": 0.8881081081081081
+    },
+    {
+      "level": "H1",
+      "text": "To Present a Proposal for Developing",
+      "page": 1,
+      "confidence": 0.8975,
+      "semantic_score": 0.67,
+      "font_size": 24.0,
+      "y_position": 248.39999389648438,
+      "adaptive_score": 0.8881081081081081
+    },
+    {
+      "level": "H2",
+      "text": "1. Preamble",
+      "page": 11,
+      "confidence": 0.98,
+      "semantic_score": 0.83,
+      "font_size": 10.0,
+      "y_position": 136.785888671875,
+      "adaptive_score": 0.8881081081081081
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "form",
+    "structure_complexity": "simple",
+    "total_pages": 14,
+    "heading_distribution": {
+      "H1": 2,
+      "H2": 1,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.925,
+    "average_semantic_score": 0.723,
+    "accuracy_estimate": 92.5,
+    "total_headings": 3
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "RFP: Request f",
+      "To Present a Proposal for Developing",
+      "1. Preamble"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "RFP: Request f",
+        "page": 1,
+        "children": []
+      },
+      {
+        "text": "To Present a Proposal for Developing",
+        "page": 1,
+        "children": [
+          {
+            "text": "1. Preamble",
+            "page": 11,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "content_categories": {}
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.1545238494873047,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

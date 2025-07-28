@@ -1,0 +1,120 @@
+{
+  "title": "Advanced Machine Learning Techniques",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Advanced Machine Learning Techniques",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.67,
+      "font_size": 18.0,
+      "y_position": 80.73999786376953,
+      "adaptive_score": 0.7999999999999999
+    },
+    {
+      "level": "H1",
+      "text": "1. Introduction to Deep Learning",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.8,
+      "font_size": 16.0,
+      "y_position": 132.8800048828125,
+      "adaptive_score": 0.6
+    },
+    {
+      "level": "H2",
+      "text": "1.1 Neural Network Fundamentals",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.8300000000000001,
+      "font_size": 14.0,
+      "y_position": 185.02000427246094,
+      "adaptive_score": 0.6
+    },
+    {
+      "level": "H2",
+      "text": "1.2 Convolutional Networks",
+      "page": 1,
+      "confidence": 0.9375,
+      "semantic_score": 0.8300000000000001,
+      "font_size": 14.0,
+      "y_position": 335.0199890136719,
+      "adaptive_score": 0.6
+    },
+    {
+      "level": "H2",
+      "text": "2. Advanced Architectures",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.88,
+      "font_size": 16.0,
+      "y_position": 382.8800048828125,
+      "adaptive_score": 0.6
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "structured",
+    "structure_complexity": "simple",
+    "total_pages": 1,
+    "heading_distribution": {
+      "H1": 2,
+      "H2": 3,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.972,
+    "average_semantic_score": 0.802,
+    "accuracy_estimate": 97.2,
+    "total_headings": 5
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "Advanced Machine Learning Techniques",
+      "1. Introduction to Deep Learning",
+      "1.1 Neural Network Fundamentals",
+      "1.2 Convolutional Networks",
+      "2. Advanced Architectures"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "Advanced Machine Learning Techniques",
+        "page": 1,
+        "children": []
+      },
+      {
+        "text": "1. Introduction to Deep Learning",
+        "page": 1,
+        "children": [
+          {
+            "text": "1.1 Neural Network Fundamentals",
+            "page": 1,
+            "children": []
+          },
+          {
+            "text": "1.2 Convolutional Networks",
+            "page": 1,
+            "children": []
+          },
+          {
+            "text": "2. Advanced Architectures",
+            "page": 1,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "content_categories": {
+      "introductory": [
+        "1. Introduction to Deep Learning"
+      ]
+    }
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.014312982559204102,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

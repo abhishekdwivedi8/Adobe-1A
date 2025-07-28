@@ -1,0 +1,106 @@
+{
+  "title": "Topjump-Party-Invitation-20161003-V01",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "RSVP:",
+      "page": 1,
+      "confidence": 0.98,
+      "semantic_score": 0.68,
+      "font_size": 12.4,
+      "y_position": 523.3318481445312,
+      "adaptive_score": 0.6454545454545454
+    },
+    {
+      "level": "H3",
+      "text": "GUARDIANS NOT ATTENDING THE PARTY,",
+      "page": 1,
+      "confidence": 0.7575000000000001,
+      "semantic_score": 0.8300000000000001,
+      "font_size": 7.2,
+      "y_position": 571.8318481445312,
+      "adaptive_score": 0.5454545454545454
+    },
+    {
+      "level": "H1",
+      "text": "HOPE",
+      "page": 1,
+      "confidence": 0.93,
+      "semantic_score": 0.4,
+      "font_size": 22.7,
+      "y_position": 598.6004028320312,
+      "adaptive_score": 0.8454545454545455
+    },
+    {
+      "level": "H1",
+      "text": "HERE",
+      "page": 1,
+      "confidence": 0.93,
+      "semantic_score": 0.4,
+      "font_size": 22.0,
+      "y_position": 598.6004028320312,
+      "adaptive_score": 0.8454545454545455
+    },
+    {
+      "level": "H2",
+      "text": "SEE",
+      "page": 1,
+      "confidence": 0.93,
+      "semantic_score": 0.4,
+      "font_size": 22.5,
+      "y_position": 598.6004028320312,
+      "adaptive_score": 0.8454545454545455
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "invitation",
+    "structure_complexity": "simple",
+    "total_pages": 1,
+    "heading_distribution": {
+      "H1": 2,
+      "H2": 2,
+      "H3": 1
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.905,
+    "average_semantic_score": 0.542,
+    "accuracy_estimate": 90.5,
+    "total_headings": 5
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "RSVP:",
+      "GUARDIANS NOT ATTENDING THE PARTY,",
+      "HOPE",
+      "HERE",
+      "SEE"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "HOPE",
+        "page": 1,
+        "children": []
+      },
+      {
+        "text": "HERE",
+        "page": 1,
+        "children": [
+          {
+            "text": "SEE",
+            "page": 1,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "content_categories": {}
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.04680752754211426,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}

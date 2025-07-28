@@ -1,0 +1,68 @@
+{
+  "title": "Razorpay Glbgoi Mathura 11.07",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Roll No.",
+      "page": 1,
+      "confidence": 0.8150000000000001,
+      "semantic_score": 0.62,
+      "font_size": 10.0,
+      "y_position": 248.68540954589844,
+      "adaptive_score": 0.8564516129032258
+    },
+    {
+      "level": "H2",
+      "text": "Email - Id",
+      "page": 1,
+      "confidence": 0.7475,
+      "semantic_score": 0.67,
+      "font_size": 10.0,
+      "y_position": 399.83929443359375,
+      "adaptive_score": 0.8564516129032258
+    }
+  ],
+  "document_intelligence": {
+    "document_type": "general",
+    "structure_complexity": "simple",
+    "total_pages": 1,
+    "heading_distribution": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 0
+    }
+  },
+  "quality_metrics": {
+    "average_confidence": 0.781,
+    "average_semantic_score": 0.645,
+    "accuracy_estimate": 78.1,
+    "total_headings": 2
+  },
+  "semantic_features": {
+    "searchable_content": [
+      "Roll No.",
+      "Email - Id"
+    ],
+    "hierarchy_tree": [
+      {
+        "text": "Roll No.",
+        "page": 1,
+        "children": [
+          {
+            "text": "Email - Id",
+            "page": 1,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "content_categories": {}
+  },
+  "processing_metadata": {
+    "pipeline": "ultimate_6stage_cerberus",
+    "version": "3.0",
+    "processing_time": 0.013216495513916016,
+    "stages_completed": 6,
+    "future_ready": true
+  }
+}
